@@ -1,0 +1,16 @@
+{
+  "name": "Texarkana Concrete Pros",
+  "short_name": "Texarkana Concrete",
+  "description": "Concrete Contractors in Texarkana, Arkansas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#25483f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
